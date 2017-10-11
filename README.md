@@ -1,2 +1,2 @@
 # netwmon
-Prototype of host intrusion detection based on host network activity and machine learning.
+Prototype of host intrusion detection system based on host network activity and machine learning.
